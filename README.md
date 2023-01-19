@@ -1,1 +1,3 @@
-# ImgClssification-CNN
+# ImgClssification-Computer Vision
+
+This project is a machine learning project which is used to diagnose pneumonia from x-ray images by using deep learning. I did it using TensorFlow open source software library and I used kaggle.com to get the x-ray images datasets.I used supervised machine learning algorithm to train the model. The model was trained using 5216 chest x-ray images with two categories one category for normal and the other for a lung with pneumonia by a method of Convolutional Neural Network(CNN) from scratch to retrieve features from chest x-ray images to bring off a quality classification and used it to detect whether or not a patient had pneumonia.
